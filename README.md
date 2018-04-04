@@ -1,0 +1,2 @@
+# pyqt
+Estudos sobre pyqt
